@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "John Doe",
 	"description": "Free Code Camp package, quite cool stuff!",
-	"keywords": ["ffc", "learning", "demo"],
+	"keywords": ["ffc", "learning", "demo", "freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
